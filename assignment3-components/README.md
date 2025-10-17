@@ -17,7 +17,8 @@ This project is created as part of learning React. The task is to create a stati
 
 Here is how the app looks:
 
-![App Screenshot](ScreenShots/Assignment3(Componets).png)
+![App Screenshot](../ScreenShots/Assignment3(Componets).png)
+
 
 ## Task Description
 
