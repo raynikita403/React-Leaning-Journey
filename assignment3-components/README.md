@@ -1,16 +1,27 @@
-# React + Vite
+# React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is created as part of learning React. The task is to create a static page using React **without CSS/styling**, focusing on JSX elements and using **class and functional components**.
 
-Currently, two official plugins are available:
+## Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Functional Components**
+  - `Header` – Navigation bar component
+  - `Banner` – Top banner component
+  - `NewProduct` – Display new product section
 
-## React Compiler
+- **Class Components**
+  - `Icon` – Section for icons
+  - `Footer` – Footer section
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Screenshot
 
-## Expanding the ESLint configuration
+Here is how the app looks:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](ScreenShots/Assignment3(Componets).png)
+
+## Task Description
+
+1. Create a new React app using Vite.
+2. Use functional and class components for building the static page.
+3. Do not use any external CSS or styling libraries; focus on JSX structure.
+4. Organize components in separate files for better readability.
