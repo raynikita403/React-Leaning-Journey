@@ -33,7 +33,7 @@ This repository contains my React learning journey, including assignments and pr
 
 **Screenshot:**  
 **Assignment3**
-![App Screenshot](../ScreenShots/Assignment3(Componets).png)
+![App Screenshot](ScreenShots/Assignment3(Componets).png)
 
 ---
 
