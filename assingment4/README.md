@@ -1,16 +1,46 @@
-# React + Vite
+# React Assignment 4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This assignment focuses on practicing **React components, CSS styling, and list rendering**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 What I Learned
 
-## React Compiler
+- **Class Components**: Created reusable components with state management.  
+- **Functional Components**: Built simple, stateless components for rendering UI.  
+- **CSS Styling**:  
+  - **Inline CSS**: Styling applied directly in JSX.  
+  - **External CSS**: Styles stored in separate `.css` files and imported into components.  
+- **List Rendering**: Displayed arrays of data dynamically using `.map()`.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🗂 Components Created
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Class Components**
+1. **CategoriesCard** – Displays product categories.  
+2. **NewArrival** – Shows new products dynamically.  
+3. **Footer** – Static footer component with links and info.  
+
+### **Functional Components**
+1. **TopNavbar** – Displays promotional banner text at the top.  
+2. **Navbar** – Main navigation bar with menu items and icons.  
+3. **Banner** – Hero section with background image and text.  
+
+---
+
+## ⚡ Key Features
+
+- Reusable components for modular design.  
+- Combined **class and functional components** in a single project.  
+- Used **inline and external CSS** to style elements efficiently.  
+- Implemented **list rendering** for dynamic display of categories and new arrivals.  
+
+---
+
+## Screenshot
+
+Here is how the app looks:
+
+![App Screenshot](../ScreenShots/Assignment4.png)
+
