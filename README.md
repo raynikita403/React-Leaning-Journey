@@ -15,7 +15,8 @@ This repository contains my React learning journey, including assignments and pr
   - JSX syntax and expressions
   - Creating **Functional Components**
   - Creating **Class Components**
-  - Using props to pass data between components
+  - Inline and external Css
+  - List Rendering
 
 - **Component Organization**
   - Splitting UI into smaller reusable components
@@ -34,6 +35,16 @@ This repository contains my React learning journey, including assignments and pr
 **Screenshot:**  
 **Assignment3**
 ![App Screenshot](ScreenShots/Assignment3(Componets).png)
+
+### Assignment 4: Components Inline and eternal css, List renering  Static Page
+
+**What We Did:**  
+- Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)  
+- Focused on JSX structure, without adding CSS/styling  
+
+**Screenshot:**  
+**Assignment4**
+![App Screenshot](ScreenShots/Assignment4.png)
 
 ---
 
