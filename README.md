@@ -30,7 +30,7 @@ This repository contains my React learning journey, including assignments and pr
 
 **What We Did:**  
 - Created a static page using both **Functional Components** (`Header`, `Banner`, `NewProduct`) and **Class Components** (`Icon`, `Footer`)  
-- Focused on JSX structure, without adding CSS/styling  
+
 
 **Screenshot:**  
 **Assignment3**
@@ -40,7 +40,7 @@ This repository contains my React learning journey, including assignments and pr
 
 **What We Did:**  
 - Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)  
-- Focused on JSX structure, without adding CSS/styling  
+
 
 **Screenshot:**  
 **Assignment4**
