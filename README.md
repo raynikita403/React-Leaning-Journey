@@ -42,10 +42,12 @@ This repository contains my React learning journey, including assignments and pr
 - Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)  
 
 
-**Screenshot:**  
+ 
 **Assignment4**
 ![App Screenshot](ScreenShots/Assignment4.png)
 
+**Assignment5**
+![App Screenshot](ScreenShots/assignment5.png)
 ---
 
 
