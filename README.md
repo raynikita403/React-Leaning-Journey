@@ -39,14 +39,13 @@ This repository contains my React learning journey, including assignments and pr
 ### Assignment 4: Components Inline and eternal css, List renering  Static Page
 
 **What We Did:**  
-- Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)  
-
-
- 
-**Assignment4**
+- Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)
+- 
 ![App Screenshot](ScreenShots/Assignment4.png)
 
 **Assignment5**
+- Working with Multimedia
+- iImport/Export Components
 ![App Screenshot](ScreenShots/assignment5.png)
 ---
 
