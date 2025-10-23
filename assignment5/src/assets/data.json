@@ -1,0 +1,28 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "title": "Kantara",
+      "image": "kantara.jpeg",
+      "audio": "Kantara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Mirai",
+      "image": "Mirai.jpeg",
+      "audio": "RRR.mp3"
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "image": "RRR.jpeg",
+      "audio": "Kantara.mp3"
+    },
+     {
+      "id": 4,
+      "title": "Bahubali",
+      "image": "Bahubali.jpeg",
+      "audio": "Bahubali.mp3"
+    }
+  ]
+}
