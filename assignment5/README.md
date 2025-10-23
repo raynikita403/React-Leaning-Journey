@@ -1,16 +1,39 @@
-# React + Vite
+# React Assignment 5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is my **5th React Assignment**, where I practiced:
 
-Currently, two official plugins are available:
+- Using **import/export** in React components.
+- Working with **multiple multimedia files** including images, videos, and audio.
+- Accessing data from a `data.json` file located in the **assets** folder.
+- Using public folder for static assets.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project helped me strengthen my understanding of handling **external resources and modular component structure** in React.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features Implemented
 
-## Expanding the ESLint configuration
+1. **Import/Export Components**
+   - Created reusable components and imported them where required.
+   - Learned named and default exports.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Working with Multimedia**
+   - Added images, videos, and audio files in React.
+   - Accessed files from:
+     - `src/assets` folder (imported in components)
+     - `public` folder (direct path access)
+
+3. **Using JSON Data**
+   - Stored data in `data.json` in the `assets` folder.
+   - Imported and displayed dynamic data in components using `.map()` function.
+
+---
+## Screenshot
+
+Here is how the app looks:
+
+![App Screenshot](../ScreenShots/assignment5.png)
+
+## Project Structure
+
