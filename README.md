@@ -49,6 +49,9 @@ This repository contains my React learning journey, including assignments and pr
 ![App Screenshot](ScreenShots/assignment5.png)
 ---
 
+**Assignment6**
+- Working with EventBinding 
+![App Screenshot](ScreenShots/Assinment6(EventBinding).png)
 
 ## Notes
 
