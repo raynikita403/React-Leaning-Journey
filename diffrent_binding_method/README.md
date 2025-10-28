@@ -35,6 +35,9 @@ Generates a random number between **1 and 100** each time you click the button.
 const randomNum = Math.floor(Math.random() * 100) + 1;
 this.setState({ number: randomNum });
 
-**App Screenshot**
-![App Screenshot](./screenshots/Assignment6(EventBinding).png)
+## Screenshot
+
+Here is how the app looks:
+
+![App Screenshot](../ScreenShots/Assignment4.png)
 
