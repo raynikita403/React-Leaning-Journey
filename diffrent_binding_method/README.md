@@ -36,4 +36,4 @@ const randomNum = Math.floor(Math.random() * 100) + 1;
 this.setState({ number: randomNum });
 
 **App Screenshot
-![App Screenshot](ScreenShots/Assignment6(EventBinding).png)
+![App Screenshot](ScreenShots/Assinment6(EventBinding).png)
