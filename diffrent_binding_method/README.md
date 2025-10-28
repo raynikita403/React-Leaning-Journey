@@ -41,4 +41,4 @@ Here is how the app looks:
 
 ![App Screenshot](../ScreenShots/Assinment6(EventBinding).png)
 
-https://github.com/raynikita403/React-Leaning-Journey/blob/master/ScreenShots/Assinment6(EventBinding).png
+
