@@ -39,6 +39,8 @@ this.setState({ number: randomNum });
 
 Here is how the app looks:
 
+
 ![App Screenshot](../ScreenShots/Assinment6(EventBinding).png)
+
 
 
