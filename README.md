@@ -1,58 +1,91 @@
-# React Learning Journey
+# ⚛️ React Learning Journey
 
-This repository contains my React learning journey, including assignments and projects created while practicing React concepts. The focus is on building static pages, understanding basic syntax, and using both class and functional components.
-
----
-
-## What I Learned So Far
-
-- **Creating a React App**
-  - Setting up a React project using Vite
-  - Understanding project folder structure
-  - Running the development server
-
-- **React Basics**
-  - JSX syntax and expressions
-  - Creating **Functional Components**
-  - Creating **Class Components**
-  - Inline and external Css
-  - List Rendering
-
-- **Component Organization**
-  - Splitting UI into smaller reusable components
-  - Using parent-child component relationships
+This repository contains my React learning journey, including **assignments and projects** created while practicing React concepts.  
+The focus is on building static pages, understanding basic syntax, and using both **Class** and **Functional Components**.
 
 ---
 
-## Assignments / Projects
+## 🚀 What I’ve Learned So Far
 
-### Assignment 3: Components Static Page
+### 🧩 React Basics
+- Creating a React project using **Vite**
+- Understanding project folder structure
+- Running the development server
+- Writing and using **JSX**
+- Creating **Functional Components** and **Class Components**
+- Using **Inline** and **External CSS**
+- Understanding **List Rendering**
 
-**What We Did:**  
-- Created a static page using both **Functional Components** (`Header`, `Banner`, `NewProduct`) and **Class Components** (`Icon`, `Footer`)  
+### 🧠 Component Organization
+- Splitting UI into reusable components
+- Understanding **Parent-Child** relationships
+- Importing and exporting components
+- Managing component hierarchy and props
 
-
-**Screenshot:**  
-**Assignment3**
-![App Screenshot](ScreenShots/Assignment3(Componets).png)
-
-### Assignment 4: Components Inline and eternal css, List renering  Static Page
-
-**What We Did:**  
-- Created a static page using both **Functional Components** (`TopNavbar`, `navbar`, `Banner`) and **Class Components** (`Categories-card`,`New Arrival`, `Footer`)
-- 
-![App Screenshot](ScreenShots/Assignment4.png)
-
-**Assignment5**
-- Working with Multimedia
-- iImport/Export Components
-![App Screenshot](ScreenShots/assignment5.png)
 ---
 
-**Assignment6**
-- Working with EventBinding 
-![App Screenshot](ScreenShots/Assinment6(EventBinding).png)
+## 📘 Assignments & Projects
 
-## Notes
+### 🧱 Assignment 3 — Components Static Page
+**What I Did:**
+- Built a static page using:
+  - Functional Components → `Header`, `Banner`, `NewProduct`
+  - Class Components → `Icon`, `Footer`
 
-This repository will be continuously updated as I complete more assignments and projects in React.
+📸 **Screenshot:**  
+![Assignment3 Screenshot](ScreenShots/Assignment3(Componets).png)
+
+---
+
+### 🎨 Assignment 4 — Inline & External CSS + List Rendering
+**What I Did:**
+- Created a page combining styling and list rendering concepts  
+- Used both:
+  - Functional Components → `TopNavbar`, `Navbar`, `Banner`
+  - Class Components → `CategoriesCard`, `NewArrival`, `Footer`
+
+📸 **Screenshot:**  
+![Assignment4 Screenshot](ScreenShots/Assignment4.png)
+
+---
+
+### 🎬 Assignment 5 — Multimedia & Import/Export Components
+**What I Did:**
+- Worked with images and videos in React  
+- Practiced importing and exporting multiple components
+
+📸 **Screenshot:**  
+![Assignment5 Screenshot](ScreenShots/assignment5.png)
+
+---
+
+### ⚙️ Assignment 6 — Event Binding
+**What I Did:**
+- Explored different ways to bind event handlers in Class Components  
+- Implemented button click handlers with various binding techniques
+
+📸 **Screenshot:**  
+![Assignment6 Screenshot](ScreenShots/Assinment6(EventBinding).png)
+
+---
+
+### 🔁 Assignment 7 — Handling Input & Props
+**What I Did:**
+- Implemented controlled components with state handling  
+- Passed data using props between parent and child components
+
+---
+
+### 👁️ Assignment 8 — Conditional Rendering & Styling
+**What I Did:**
+- Practiced conditional rendering using `if-else` and ternary operators  
+- Applied dynamic styles based on state and conditions
+
+---
+
+## 📝 Notes
+This repository will be continuously updated as I complete more **React assignments and projects** to strengthen my understanding of real-world React concepts.
+
+---
+
+> 💡 *Next Topics:* Hooks, State Management, and API Integration.
